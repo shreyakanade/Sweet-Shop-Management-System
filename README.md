@@ -13,4 +13,4 @@ Contributing guidelines for developers
 Support information and acknowledgments
 
 our site has been successfully published! can view it at:
-https://sweet-shop-managemen-yam1.bolt.host
+https://ts-forge-craft.lovable.app/
